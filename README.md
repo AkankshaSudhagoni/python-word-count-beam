@@ -14,7 +14,7 @@
     
  
   *We need to [install pip](https://pip.pypa.io/en/stable/installation/), and check it's version using `pip --version`. I have **`pip 21.1.3`** in my local system.*
-  > Check that you have version 7.0.0 or newer by running.
+  > Check that you have version 7.0.0 or newer by running. <br>
     
   </p>
   </details>
@@ -23,7 +23,7 @@
   <p>
     
 *If you do not have pip version 7.0.0 or newer run the command ` python -m pip install --upgrade pip` to install it*.
-   > This command might require administrative privileges.
+   > This command might require administrative privileges. <br> 
  
   </p>
   </details>
@@ -34,9 +34,11 @@
     
   *Created and activated my virtual environment by runing  `python -m venv C:\path\to\directory` command*.
     
-    > A virtual environment is a directory tree containing its own python distributions.
+   >A virtual environment is a directory tree containing its own python distributions.
     
   </p>
   </details>
+  
+  
     
     
