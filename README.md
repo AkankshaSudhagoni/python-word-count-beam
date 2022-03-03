@@ -36,6 +36,8 @@
     
    >A virtual environment is a directory tree containing its own python distributions.
     
+  *Add and copy the code from [wordcount.py](https://github.com/apache/beam/blob/master/sdks/python/apache_beam/examples/wordcount.py) file in visual code by using `code .`
+ in powershell.*    
   </p>
   </details>
   
