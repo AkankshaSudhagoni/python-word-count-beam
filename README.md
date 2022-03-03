@@ -9,7 +9,7 @@
   </p>
   </details>
  
- <details><summary>ISTALL PIP</summary>
+ <details><summary>INSTALL PIP</summary>
   <p>
     
  
